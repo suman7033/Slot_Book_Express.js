@@ -1,0 +1,17 @@
+{
+  "name": "slot_book",
+  "version": "1.0.0",
+  "description": "Call Booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suman Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "router": "^1.3.8"
+  }
+}
